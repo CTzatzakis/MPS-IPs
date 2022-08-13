@@ -12,7 +12,7 @@ Kruskal’s algorithm is the concept that is introduced in the graph theory of d
 
 At the termination of the algorithm, the forest forms a minimum spanning forest of the graph. If the graph is connected, the forest has a single component and forms a minimum spanning tree. 
 ```
-##Pseudocode
+## Pseudocode
 
 The following code is implemented with a disjoint-set data structure. Here, the forest F represented as a set of edges, and use the disjoint-set data structure to efficiently determine whether two vertices are part of the same tree.
 ```
