@@ -1,5 +1,5 @@
 /*
- * @Copyright Copyright (C) 2020 Chris Tzatzakis
+ * @Copyright Copyright (C) 2022 Chris Tzatzakis
  * @license GNU/GPL http://www.gnu.org/copyleft/gpl.html
  * Company:		Chris Tzatzakis
  + Contact:		tzatzakis@ieee.org
